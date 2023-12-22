@@ -18,7 +18,7 @@ This course introduces students to computer game development, techniques, implem
 
 | Week | Topic | Assignments |
 | :---: | --- | --- |
-| 1 | p5 - Welcome to Javascript and p5 |  |
+| 1 | p5 - Welcome to Javascript and p5 |                                             _ |
 | 2 | p5 - Basics physics |  |
 | 3 | p5 - Vectors and forces |  |
 | 4 | p5 - |  |
