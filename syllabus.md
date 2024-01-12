@@ -39,4 +39,4 @@ This course introduces students to computer game development, techniques, implem
 | 16 | Final / Student project directed | |
 
 ## Previous semester
-(Link to previous semester's website)[http://mtreanor.com/game615-spring2023/web/]
+[Link to previous semester's website](http://mtreanor.com/game615-spring2023/web/)
