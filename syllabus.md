@@ -1,5 +1,5 @@
 # American University | Spring 2024
-## *Professor Mike Treanor*
+## *Professor Mike Treanor, PhD, MFA*
 
 ## Dates
 1/16/2024 - 5/8/2024
