@@ -9,28 +9,34 @@ Wednesday 2:30 PM - 5:20 PM
 
 Myers Building 117
 
-#### Description
+## Description
 This course introduces students to computer game development, techniques, implementation, and programming. While much of the course focuses on technical and programming skills including key game algorithms, artificial intelligence, graphics, and interface design, students are also exposed to the artistic and production-oriented aspects of game development. Working in small groups, students design and develop a game.
 
 <!-- ![The test image](images/test.png) -->
 
 <!-- <img src="./images/test.png" width="100"> -->
 
+
+## Rough Schedule
+
 | Week | Topic | Assignments |
 | :---: | --- | --- |
-| 1 | p5 - Welcome to Javascript and p5 |                                             _ |
-| 2 | p5 - Basics physics |  |
-| 3 | p5 - Vectors and forces |  |
-| 4 | p5 - |  |
-| 5 | p5 |  |
-| 6 | music - DAWs and Synth Basics |  |
-| 7 | music - Orca |  |
-| 8 | music - VCV Rack |  |
-| 9 | music - VCV Rack and Teletype |  |
-| 10 | games - Intro to PICO-8 |  |
-| 11 | games - PICO-8 |  |
-| 12 | games - PICO-8 |  |
-| 13 | final | |
-| 14 | final | |
-| 15 | final | |
-| 16 | final | |
+| 1 | Welcome. Unity: Interface, Assets, Hierarchy, Using Physics |  |
+| 2 | Components, Using External Code Assets |  |
+| 3 | Components: Input / Physics |  |
+| 4 | Collisions and triggers, basic UI |  |
+| 5 | Instantiation, prefabs |  |
+| 6 | Terrains, ProBuilder |  |
+| 7 | 3d platformer |  |
+| 8 | Clicks, Inter-GameObject Communication |  |
+| 9 | Midterm |  |
+| 10 | Animation |  |
+| 11 | UI |  |
+| 12 | Simulation interface |  |
+| 13 | 2d platformer |  |
+| 14 | Final / Student directed | |
+| 15 | Final / Student directed | |
+| 16 | Final / Student directed | |
+
+## Previous semester
+(Link to previous semester's website)[http://mtreanor.com/game615-spring2023/web/]
