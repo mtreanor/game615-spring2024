@@ -25,7 +25,7 @@ This course introduces students to computer game development, techniques, implem
 | 2 | Components, Using External Code Assets |  |
 | 3 | Components: Input / Physics |  |
 | 4 | Collisions and triggers, basic UI |  |
-| 5 | Instantiation, prefabs |  |
+| 5 | Flight sim. Instantiation, prefabs |  |
 | 6 | Terrains, ProBuilder |  |
 | 7 | 3d platformer |  |
 | 8 | Clicks, Inter-GameObject Communication |  |
