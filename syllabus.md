@@ -1,15 +1,14 @@
-# GAME 615 - Game Development I
-## American University | Spring 2024
-*Professor Mike Treanor*
+# American University | Spring 2024
+## *Professor Mike Treanor*
 
-### Dates
+## Dates
 1/16/2024 - 5/8/2024
 
 Wednesday 2:30 PM - 5:20 PM
 
 Don Myers Building - 117
 
-### Office Hours
+## Office Hours
 1:00 - 2:30pm (please email indicating that you want to come)
 Don Myers Building - 108C
 
@@ -43,4 +42,4 @@ This course introduces students to computer game development, techniques, implem
 | 16 | Final / Student project directed | |
 
 ## Previous semester
-[Link to previous semester's website](http://mtreanor.com/game615-spring2023/web/)
+[Link to a previous semester's website](http://mtreanor.com/game615-spring2023/web/)
