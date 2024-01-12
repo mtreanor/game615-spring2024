@@ -34,9 +34,9 @@ This course introduces students to computer game development, techniques, implem
 | 11 | UI |  |
 | 12 | Simulation interface |  |
 | 13 | 2d platformer |  |
-| 14 | Final / Student directed | |
-| 15 | Final / Student directed | |
-| 16 | Final / Student directed | |
+| 14 | Final / Student project directed | |
+| 15 | Final / Student project directed | |
+| 16 | Final / Student project directed | |
 
 ## Previous semester
 (Link to previous semester's website)[http://mtreanor.com/game615-spring2023/web/]
