@@ -21,7 +21,7 @@
     - Ignore the other setting options
     - Check "Initialize this repository with a README"
     - Click "Create Repository"
-1. Locate the repository folder on your computer, and add two folders to it: 'assignments' and 'games'
+1. Locate the repository folder on your computer, and add two folders to it: `assignments` and `games`
 1. Commit your changes to the repository "locally" by typing a brief summary of what you did in the Summary field (e.g. "Created the repository for game615") and click "Commit to master" (this should be on the bottom left of the window).
 1. On the top/middle region of the screen, click "Publish repository"
 1. In the future, in order to upload your assignments to Github you will go through a similar process as what you did in the last two steps. You will need to first "commit" your changes, and then you will press the button labeled "Push origin" (located at the same place as the "Publish repository" button).
