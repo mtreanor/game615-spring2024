@@ -19,6 +19,8 @@ This course introduces students to computer game development, techniques, implem
 
 <!-- <img src="./images/test.png" width="100"> -->
 
+## Assignments
+1. [Environment setup](./assignments/setup.html)
 
 ## Rough Schedule
 
