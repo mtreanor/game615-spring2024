@@ -41,6 +41,6 @@
     - Remember to save the file as exactly ".gitignore" (i.e. no file extension such as .txt or .md). I'd recommend using Visual Studio Code to create the file, and then paste in the text on the website linked above.
     - You will need to do this for every Unity project! Tons of the errors I encounter are because students forget to do this.
 1. Remember to switch your build settings to WebGL.
-1. Once you've done this, you will need to change one setting for your build to work. Go to `File->Build Settings`. And in that window, on the buttom left, click `Player Settings`. And then scroll down and click on `Publishing Settings`. And finally, change the `Compression Format` to None.
+1. Once you've done this, you will need to change one setting for your build to work. Go to `File->Build Settings`. And in that window, on the buttom left, click `Player Settings`. And then scroll down and click on `Publishing Settings`. And finally, change the `Compression Format` to `Disabled`.
 1. Remember to add your Unity scene to the build settings before you build your project.
-1. You might as well set the aspect ratio for your game to 16:9 now, as well.
+1. You might as well set the aspect ratio for your game to 16:10 now by clicking on the Game tab in Unity, and selecting the aspect ration from the dropdown list.
