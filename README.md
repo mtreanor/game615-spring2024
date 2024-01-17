@@ -27,6 +27,11 @@ This course introduces students to computer game development, techniques, implem
 | 0. [Environment setup](./assignments/setup.html) | 1-24-24 |
 | 1. [Physics Fun](./assignments/physics.html) | 1-24-24 |
 
+## Examples
+| Date | Code | Playable |
+| --- | --- | --- |
+| 1-17-24 | [physics](./examples/physics/assets) | [play!](./games/physics) |
+
 ## Rough Schedule (almost definitely going to change)
 
 | Week | Topic | - |

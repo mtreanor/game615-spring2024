@@ -3,7 +3,7 @@ Create a simple “Rube Goldberg Machine” out of simple 3d shapes with custom 
 
 Also, challenge yourself to make this look as good and play as well as you can. I know this is simple, but even very simple projects can be impressive!
 
-**Name your Unity project `01_physics`**
+**Name your Unity project `physics`**
 
 ## Topics we covered that you should demonstrate ability with
 - The transform tools: translate, rotate, and scale. Select each by pressing the W, E, and R keys respectively.
@@ -31,5 +31,5 @@ Before you do anything, BE EXTRA REALLY SUPER CERTAIN THAT YOUR GITIGNORE FILE I
 - Select "WebGL" and then click the "Switch Platform" button
 Remember to modify your player settings (remember to disable compression in the Publishing settings - this is described in more detail on the setup page).
 - Click the "Build" button
-- When it asks you where you want to put your build, create a folder titled "01_physics" in your "games" folder located in your main repository for the class (game615-spring2024). Once you do this, it will take several minutes to build your game, and then you can commit and push your build. After five or so minutes it should be playable at: http://YOUR_GITHUB_USERNAME.github.io/game615-spring2024/games/01_physics
+- When it asks you where you want to put your build, create a folder titled "physics" in your "games" folder located in your main repository for the class (game615-spring2024). Once you do this, it will take several minutes to build your game, and then you can commit and push your build. After five or so minutes it should be playable at: http://YOUR_GITHUB_USERNAME.github.io/game615-spring2024/games/physics
 - If it doesn't work, you may need to take a closer look at the setup instructions.
