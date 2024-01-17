@@ -22,13 +22,14 @@ This course introduces students to computer game development, techniques, implem
 
 ## Assignments
 | Assignment | Due |
+| :---: | --- |
 | 0. [Environment setup](./assignments/setup.html) | 1-24-24 |
 | 1. [Physics Fun](./assignments/physics.html) | 1-24-24 |
 
 ## Rough Schedule (almost definitely going to change)
 
-| Week | Topic | 
-| :---: | --- |
+| Week | Topic | - |
+| :---: | --- | --- |
 | 1 | Welcome. Unity: Interface, Assets, Hierarchy, Using Physics |  |
 | 2 | Components, Using External Code Assets |  |
 | 3 | Components: Input / Physics |  |
