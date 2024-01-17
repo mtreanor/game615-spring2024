@@ -9,7 +9,8 @@ Wednesday 2:30 PM - 5:20 PM
 Don Myers Building - 117
 
 ## Office Hours
-1:00 - 2:30pm (please email indicating that you want to come)
+Monday: 1:00 - 2:30pm (please email indicating that you want to come)
+
 Don Myers Building - 108C
 
 ## Description
@@ -20,7 +21,9 @@ This course introduces students to computer game development, techniques, implem
 <!-- <img src="./images/test.png" width="100"> -->
 
 ## Assignments
-1. [Environment setup](./assignments/setup.html)
+| Assignment | Due |
+| 0. [Environment setup](./assignments/setup.html) | 1-24-24 |
+| 1. [Physics Fun](./assignments/physics.html) | 1-24-24 |
 
 ## Rough Schedule
 
