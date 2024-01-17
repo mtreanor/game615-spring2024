@@ -16,7 +16,7 @@
 1. Open Github desktop and log in (you may need to go to Preferences->Accounts)
 1. Add a repository for the exercise
     - Name the repository exactly "game615-spring2024" **Make 100% certain you are using that exact name - all lowercase**
-    - Make sure the repository is marked as "public"
+    - Make the repository public by unchecking "Keep this repository private"
     - For Local Path put it wherever you like to keep your class files on your computer
     - Ignore the other setting options
     - Check "Initialize this repository with a README"
