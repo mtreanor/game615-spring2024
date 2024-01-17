@@ -21,8 +21,9 @@ This course introduces students to computer game development, techniques, implem
 <!-- <img src="./images/test.png" width="100"> -->
 
 ## Assignments
+
 | Assignment | Due |
-| :---: | --- |
+| --- | --- |
 | 0. [Environment setup](./assignments/setup.html) | 1-24-24 |
 | 1. [Physics Fun](./assignments/physics.html) | 1-24-24 |
 
