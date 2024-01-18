@@ -9,6 +9,7 @@ Wednesday 2:30 PM - 5:20 PM
 Don Myers Building - 117
 
 ## Office Hours
+
 Monday: 1:00 - 2:30pm (please email indicating that you want to come)
 
 Don Myers Building - 108C
