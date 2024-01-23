@@ -31,7 +31,7 @@ This course introduces students to computer game development, techniques, implem
 ## Examples
 | Date | Code | Playable |
 | --- | --- | --- |
-| 1-17-24 | [physics](./examples/physics/assets) / [play!](./games/physics) |
+| 1-17-24 | [code](./examples/physics/assets) / [play!](./games/physics) |
 
 ## Rough Schedule (almost definitely going to change)
 
