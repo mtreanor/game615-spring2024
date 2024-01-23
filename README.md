@@ -31,7 +31,7 @@ This course introduces students to computer game development, techniques, implem
 ## Examples
 | Date | Code | Playable |
 | --- | --- | --- |
-| 1-17-24 | [code](https://github.com/mtreanor/game615-spring2024/tree/main/examples/physics/Assets) / [play!](./games/physics) |
+| 1-17-24 | [play](./games/physics) / [code](https://github.com/mtreanor/game615-spring2024/tree/main/examples/physics/Assets) |
 
 ## Rough Schedule (almost definitely going to change)
 
