@@ -23,16 +23,18 @@ This course introduces students to computer game development, techniques, implem
 
 ## Assignments
 
-| Number | Assignment | Due |
+| Assignment | Due |
 | --- | --- |
-| 0 | [Environment setup](./assignments/setup.html) | 1-24-24 |
-| 1 | [Physics Fun](./assignments/physics.html) | 1-24-24 |
-| 2 | [Funny FPS](./assignments/fps.html) | 1-31-24 |
+| 0. [Environment setup](./assignments/setup.html) | 1-24-24 |
+| 1. [Physics Fun](./assignments/physics.html) | 1-24-24 |
+| 2. [Funny FPS](./assignments/fps.html) | 1-31-24 |
 
 ## Examples
+
 | Date | Code | Playable |
 | --- | --- | --- |
-| 1-17-24 | [play](./games/physics) / [code](https://github.com/mtreanor/game615-spring2024/tree/main/examples/physics/Assets) |
+| 1-17-24 | [play](./games/physics) | [code](https://github.com/mtreanor/game615-spring2024/tree/main/examples/physics/Assets) |
+| 1-24-24 | [play](./games/fps) | [code](https://github.com/mtreanor/game615-spring2024/tree/main/examples/fps/Assets) |
 
 ## Rough Schedule (almost definitely going to change)
 
