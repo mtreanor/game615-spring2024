@@ -13,7 +13,7 @@ In order to do this, you will need to make use of both the "Core Unity Skills" w
 - **Triggers:** Unity will call a function named "OnTriggerEnter" (if you've defined it), when two objects collide that have the following properties: 1. Both objects have colliders, 2. At least one of the colliders is marked as a trigger, and 3. At least one of the objects has a Rigidbody component. See [CubeScript.cs](https://github.com/mtreanor/game615-spring2024/blob/a417cd2a7028f8152a86dc470c57b0688a974254/examples/fps/Assets/CubeScript.cs#L30) for an example.
 - **AddForce:** Not required, but as we are making a first person (fps) game, it would make sense to shoot something, right? You could make is so when the player presses the space bar, you instantiate something with a Rigidbody component, and then shoot it forward. To do this, you would add something like this to the Update function on a script on the player:
 
-```
+```c#
     if (Input.GetKeyDown(KeyCode.Space)) {
         GameObject projectile = Instantiate(projectilePrefab, transform.position, transform.rotation);
         Rigidbody projectileRB = projectile.GetComponent<Rigidbody>();
