@@ -3,16 +3,14 @@
 **Name your Unity project `flight`**
 
 ## Description
-Create a very basic flight simulator where the player attempts to collect objects spread around the sky as they fly over a terrain. The number of items that have been collected should be displayed on the screen. To create a simple simulation of flight, your "plane" should simply move forward and rotate using the arrow keys. In addition to the plane movement and collection, you need to **complete at least two of the following challenges**.
+Create a very basic flight simulator where the player attempts to collect objects spread around the sky as they fly over a terrain. The number of items that have been collected should be displayed on the screen. In addition to the plane movement and collection, you need to **complete at least two of the following challenges**.
 
 ## Challenges
+- Make the plane enjoyable to control. The [example code](https://github.com/mtreanor/game615-spring2024/blob/main/examples/flight/Assets/PlaneScript.cs) feels terrible to control. Spend time analyzing better flight simulators, and incorporate additional factors to the rotation and movement code to make it better.
 - Display a timer on the screen. If the player fails to collect all the collectable items before it reaches zero, destroy the player and display a "You Lose" message of some sort.
 - Make it so the plane can create and launch items forward towards some target (i.e. it can shoot stuff). Something should happen when the launched item collides with the other object (e.g. score should increase or something).
 - Make the plane always be slowing down, and have the speed pick up when it collides with one of the collectable items. This can be done by making the speed variable always be decreasing a small amount in Update, and then increase it when the player collides with the item.
-- Enhance the realism by making it so the plane increases in speed when facing downwards and decreases when facing upward. Hint: how much the plane is facing up or down can be determined by the y value of the forward vector.
 - Make it so the plane will crash if it runs into anything other than the collectable items. When the plane crashes, it should return to its starting position.
-
-### 
 
 ## Turning in your assignment
 You will be turning in your assignment by pushing both your Unity project to your Github as well as a WebGL build of your game.
