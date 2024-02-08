@@ -29,6 +29,7 @@ This course introduces students to computer game development, techniques, implem
 | 1. [Physics Fun](./assignments/physics.html) | 1-24-24 |
 | 2. [Funny FPS](./assignments/fps.html) | 1-31-24 |
 | 3. [Flight](./assignments/flight.html) | 2-7-24 |
+| 4. [Platformer](./assignments/platformer.html) | 2-21-24 |
 
 ## Examples
 
@@ -37,6 +38,7 @@ This course introduces students to computer game development, techniques, implem
 | 1-17-24 | [play](./games/physics) | [code](https://github.com/mtreanor/game615-spring2024/tree/main/examples/physics/Assets) |
 | 1-24-24 | [play](./games/fps) | [code](https://github.com/mtreanor/game615-spring2024/tree/main/examples/fps/Assets) |
 | 1-31-24 | [play](./games/flight) | [code](https://github.com/mtreanor/game615-spring2024/blob/main/examples/flight/Assets/PlaneScript.cs) |
+| 2-7-24 | [play](./games/platformer) | [code](https://github.com/mtreanor/game615-spring2024/blob/main/examples/platformer/Assets/) |
 
 ## Rough Schedule (almost definitely going to change)
 
