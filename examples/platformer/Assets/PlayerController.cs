@@ -8,8 +8,12 @@ public class PlayerController : MonoBehaviour
     // and rotation code in update.
     float rotateSpeed = 90f;
     float forwardSpeed = 8f;
+    float defaultSpeed = 8f;
+    float waterSpeed = 3f;
     float jumpForce = 10f;
     float gravity = -19.8f;
+
+    public GameObject cam;
 
     // This is the variable we will use to accumulate gravity.
     float yVelocity = 0;
@@ -33,6 +37,30 @@ public class PlayerController : MonoBehaviour
         float vAxis = Input.GetAxis("Vertical");
 
 
+        // *** Move relative to camera ***
+        //Vector3 camVecForward = cam.transform.forward;
+        //camVecForward.y = 0;
+        //camVecForward.Normalize();
+
+        //Vector3 camVecRight = cam.transform.right;
+        //camVecRight.y = 0;
+        //camVecRight.Normalize();
+
+        //camVecRight *= hAxis;
+        //camVecForward *= vAxis;
+
+        //camVecForward += camVecRight;
+        //Vector3 camVecTotal = camVecForward.normalized;
+
+        //camVecTotal *= forwardSpeed;
+
+        // Rotate in the direction we are facing (again, based on the input and camera)
+        //if (camVecForward.magnitude > 0)
+        //{
+        //    transform.rotation = Quaternion.LookRotation(camVecTotal);
+        //}
+        // *** END Move relative to camera ***
+
         // --- ROTATION ---
         // Rotate on the y axis based on the hAxis value
         // NOTE: If the player isn't pressing left or right, hAxis will be 0 and there will be no rotation
@@ -44,7 +72,14 @@ public class PlayerController : MonoBehaviour
             // If we go in this block of code, cc.isGrounded is false, which means
             // the last time cc.Move was called, we did not try to enter the ground.
 
-            yVelocity += gravity * Time.deltaTime;
+            if (Input.GetKey(KeyCode.Space) && yVelocity < 0)
+            {
+                yVelocity += gravity/5 * Time.deltaTime;
+            }
+            else
+            {
+                yVelocity += gravity * Time.deltaTime;
+            }
 
             if (Input.GetKeyUp(KeyCode.Space) && yVelocity > 0) {
                 yVelocity = 0;
@@ -71,6 +106,7 @@ public class PlayerController : MonoBehaviour
         // Note, If the player isn't pressing up or down, vAxis will be 0 and there will be no movement
         // based on input. However, yVelocity will still move the player downward.
         Vector3 amountToMove = transform.forward * forwardSpeed * vAxis;
+        //Vector3 amountToMove = camVecTotal; //Use this if moving relative to the camera
 
         // -- ANIMATION --
         // Check to see if we are going to move based on the player input. Note, we
@@ -108,6 +144,10 @@ public class PlayerController : MonoBehaviour
             previousPlatformPosition = other.transform.parent.position;
             movingPlatform = other.transform.parent.gameObject;
         }
+        else if (other.CompareTag("water"))
+        {
+            forwardSpeed = waterSpeed;
+        }
     }
 
 
@@ -118,6 +158,10 @@ public class PlayerController : MonoBehaviour
             // By setting this to null here, we won't go into the if statement
             // that deals with moving platforms in the Update function.
             movingPlatform = null;
+        }
+        else if (other.CompareTag("water"))
+        {
+            forwardSpeed = defaultSpeed;
         }
     }
 }

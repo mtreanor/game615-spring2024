@@ -33,12 +33,12 @@ This course introduces students to computer game development, techniques, implem
 
 ## Examples
 
-| Date | Code | Playable |
-| --- | --- | --- |
-| 1-17-24 | [play](./games/physics) | [code](https://github.com/mtreanor/game615-spring2024/tree/main/examples/physics/Assets) |
-| 1-24-24 | [play](./games/fps) | [code](https://github.com/mtreanor/game615-spring2024/tree/main/examples/fps/Assets) |
-| 1-31-24 | [play](./games/flight) | [code](https://github.com/mtreanor/game615-spring2024/blob/main/examples/flight/Assets/PlaneScript.cs) |
-| 2-7-24 | [play](./games/platformer) | [code](https://github.com/mtreanor/game615-spring2024/blob/main/examples/platformer/Assets/) |
+| Date | Topic | Code | Playable |
+| --- | --- | --- | --- |
+| 1-17-24 | Basic physics | [play](./games/physics) | [code](https://github.com/mtreanor/game615-spring2024/tree/main/examples/physics/Assets) |
+| 1-24-24 | First person, Probuilder | [play](./games/fps) | [code](https://github.com/mtreanor/game615-spring2024/tree/main/examples/fps/Assets) |
+| 1-31-24 | Flight simulator, moving forward, triggers | [play](./games/flight) | [code](https://github.com/mtreanor/game615-spring2024/blob/main/examples/flight/Assets/PlaneScript.cs) |
+| 2-14-24 / 2-14-24 | Platformer, simulating gravity, CharacterController, NavMeshAgent, Custom platformer controls (glide), moving platform, basic animation | [play](./games/platformer) | [code](https://github.com/mtreanor/game615-spring2024/blob/main/examples/platformer/Assets/) |
 
 ## Rough Schedule (almost definitely going to change)
 
