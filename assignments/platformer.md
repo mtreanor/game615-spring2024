@@ -37,7 +37,7 @@ Complete at least one of the following enhancements to the player controller.
 - Difficult double jump: While making a double jump would be pretty easy, try making a system that supports multiple jumps where the user can only perform the jump in the air if they press the button at the maximum height of their jump. Also, make it so each "air jump" has less and less power. [Super Metroid](https://metroid.fandom.com/wiki/Space_Jump) did something like this.
 
 ## Resources
-- [Sample Project from Class](../examples/platformer/Assets)
+- [Sample Project from Class](https://github.com/mtreanor/game615-spring2024/blob/main/examples/platformer/Assets/)
 
 ## Turning in your assignment
 You will be turning in your assignment by pushing both your Unity project to your Github as well as a WebGL build of your game.

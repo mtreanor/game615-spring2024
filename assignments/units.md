@@ -15,7 +15,7 @@ Here are some ideas, but feel free to come up with your own:
 - Have the player be able to place various types of buildings or zones on a grid. Have the placed areas update their stats over time based on the distance from the various other types of placed buildings.
 
 ## Resources
-- [Sample Project from Class](../examples/units/Assets)
+- [Sample Project from Class](https://github.com/mtreanor/game615-spring2024/blob/main/examples/units/Assets/)
 
 ## Turning in your assignment
 You will be turning in your assignment by pushing both your Unity project to your Github as well as a WebGL build of your game.
