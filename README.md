@@ -30,7 +30,7 @@ This course introduces students to computer game development, techniques, implem
 | 2. [Funny FPS](./assignments/fps.html) | 1-31-24 |
 | 3. [Flight](./assignments/flight.html) | 2-7-24 |
 | 4. [Platformer](./assignments/platformer.html) | 2-21-24 |
-| 5. [Simulation Game](./assignments/sim.html) | 3-6-24 |
+| 5. [Resource Management and Controlling Units](./assignments/units.html) | 3-6-24 |
 
 ## Examples
 
