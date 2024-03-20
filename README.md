@@ -31,6 +31,7 @@ This course introduces students to computer game development, techniques, implem
 | 3. [Flight](./assignments/flight.html) | 2-7-24 |
 | 4. [Platformer](./assignments/platformer.html) | 2-21-24 |
 | 5. [Resource Management and Controlling Units](./assignments/units.html) | 3-6-24 |
+| 6. [Final Project](./assignments/final.html) | 5-6-24 |
 
 ## Examples
 
