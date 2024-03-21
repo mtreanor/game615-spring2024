@@ -14,7 +14,7 @@ Finally, try your best to get rid of anything that isn’t directly adding posit
 
 # Final Project Due Dates
 ## Design Document (20%)
-<!-- ### Due 12/1/23 -->
+### Due 3-27-24
 Your design document should include:
 
 A detailed plan for the game. This will involve describing all of the following components:
@@ -42,13 +42,13 @@ https://github.com/(your github username)/game615-spring2024/tree/main/assignmen
 Each class I will check in with you and assess your progress on your project. Note that these assessments are worth 20% of your grade!
 
 ## Core Mechanic Playtesting (20%)
-<!-- ### Due 12/8/23 -->
+### Due 4-17-24
 At this point, the core mechanic of your game should be mostly complete.
 
 Before class, create a WebGL build of your game that demonstrates what you have working and post it to github. In class, we will discuss areas that you should spend time improving, including bugs, and gameplay features.
 
 ## Final Submission (40%)
-<!-- ### Due 12/15/23 -->
+### Due 5-8-24
 Submit a WebGL build of your game, as well as all of the project files to your GitHub repository.
 
 Additionally, create one or more of the following and submit it along with your project files to your GitHub repository:

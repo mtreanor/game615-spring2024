@@ -41,7 +41,8 @@ This course introduces students to computer game development, techniques, implem
 | 1-24-24 | First person, Probuilder | [play](./games/fps) | [code](https://github.com/mtreanor/game615-spring2024/tree/main/examples/fps/Assets) |
 | 1-31-24 | Flight simulator, moving forward, triggers | [play](./games/flight) | [code](https://github.com/mtreanor/game615-spring2024/blob/main/examples/flight/Assets/PlaneScript.cs) |
 | 2-7-24 / 2-14-24 | Platformer, simulating gravity, CharacterController, NavMeshAgent, Custom platformer controls (glide), moving platform, basic animation | [play](./games/platformer) | [code](https://github.com/mtreanor/game615-spring2024/blob/main/examples/platformer/Assets/) |
-| 2-21-24 | Raycasting, Clicking on Units | [play](./games/units) | [code](https://github.com/mtreanor/game615-spring2024/blob/main/examples/units/Assets/) |
+| 2-21-24 through 3-6-24| Raycasting, Clicking on Units | [play](./games/units) | [code](https://github.com/mtreanor/game615-spring2024/blob/main/examples/units/Assets/) |
+| 3-20-24 | Coroutines (fading in, cool down timer), Coroutines and the Observer Pattern, Loading Scenes, Humanoid Animated Models (from Mixamo), and PostProcessing | [play](./games/grabbag) | [code](https://github.com/mtreanor/game615-spring2024/blob/main/examples/grabbag/Assets/) |
 
 ## Rough Schedule (almost definitely going to change)
 
