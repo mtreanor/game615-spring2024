@@ -322,6 +322,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a853bbf0bd4af4a2d91a4b3605b12465, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ppp: {fileID: 11400000, guid: 1f6ec361b9dfc4dd0b429ceaf9d7d03a, type: 2}
   canvasObject: {fileID: 1712310164}
   fadeImage: {fileID: 1209215084}
   scoreText: {fileID: 1737956641}

@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using System;
 using TMPro;
 using UnityEngine.SceneManagement;
-
+using UnityEngine.Rendering.PostProcessing;
 
 public class GameManager : MonoBehaviour
 {
@@ -13,6 +13,9 @@ public class GameManager : MonoBehaviour
 
     public static Action FadeStarted;
     public static Action FadeComplete;
+
+    public PostProcessProfile ppp;
+    DepthOfField dof;
 
     [SerializeField]
     GameObject canvasObject;
@@ -27,6 +30,7 @@ public class GameManager : MonoBehaviour
 
     private void OnEnable()
     {
+
         if (Instance != null)
         {
             Debug.Log("We got a problem");
@@ -47,6 +51,9 @@ public class GameManager : MonoBehaviour
 
         DontDestroyOnLoad(gameObject);
         DontDestroyOnLoad(canvasObject);
+
+        ppp.TryGetSettings<DepthOfField>(out dof);
+        dof.aperture.value = 100f;
     }
 
     // Update is called once per frame
